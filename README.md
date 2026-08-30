@@ -92,3 +92,41 @@ I also specialize in building scalable test automation solutions using **Playwri
 - 🚀 Release Validation
 - 🔍 Production Verification
 - 🔬 Root Cause Analysis
+
+---
+
+## 💻 Technology Stack
+
+### 🎭 Automation & Programming
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🔌 API & Testing Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" />
+</p>
+
+### 🛠️ Development & Collaboration
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+### 🤖 AI & Quality Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Testing-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Testing-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Testing-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Testing-6A5ACD?style=for-the-badge" />
+</p>

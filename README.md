@@ -30,6 +30,13 @@ I also specialize in building scalable test automation solutions using **Playwri
   <img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" />
 </p>
 
+### 🔄 CI/CD & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
 ### 🛠️ Development & Collaboration
 
 <p>
@@ -46,8 +53,6 @@ I also specialize in building scalable test automation solutions using **Playwri
   <img src="https://img.shields.io/badge/Prompt%20Testing-FF69B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG%20Testing-6A5ACD?style=for-the-badge" />
 </p>
-
-
 
 ---
 

@@ -130,3 +130,35 @@ I also specialize in building scalable test automation solutions using **Playwri
   <img src="https://img.shields.io/badge/Prompt%20Testing-FF69B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG%20Testing-6A5ACD?style=for-the-badge" />
 </p>
+
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🎭 AdvancePlaywrightFramework2X
+A structured **Playwright + TypeScript automation framework** demonstrating scalable test automation architecture, Page Object Model, reusable utilities, test data management, configuration and reporting.
+
+🔗 **Repository:** [AdvancePlaywrightFramework2X](https://github.com/mnitesh2552/AdvancePlaywrightFramework2X)
+
+---
+
+### 🤖 AI_Testing
+A dedicated repository focused on **AI Testing and Quality Engineering**, covering concepts and practical approaches for testing AI-powered applications, LLMs, prompts, responses and AI-driven workflows.
+
+🔗 **Repository:** [AI_Testing](https://github.com/mnitesh2552/AI_Testing)
+
+---
+
+### 🎭 Playwright_Automation
+A **Playwright automation project** demonstrating practical browser automation, test scenarios, locators, assertions and end-to-end testing workflows.
+
+🔗 **Repository:** [Playwright_Automation](https://github.com/mnitesh2552/Playwright_Automation)
+
+---
+
+### 🟨 JavaScript_SampleCodes
+A collection of **JavaScript programs and coding exercises** focused on strengthening programming fundamentals, problem-solving and concepts useful for test automation.
+
+🔗 **Repository:** [JavaScript_SampleCodes](https://github.com/mnitesh2552/JavaScript_SampleCodes)

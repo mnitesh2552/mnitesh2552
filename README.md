@@ -83,6 +83,8 @@ A **Playwright automation project** demonstrating practical browser automation, 
 A collection of **JavaScript programs and coding exercises** focused on strengthening programming fundamentals, problem-solving and concepts useful for test automation.
 
 🔗 **Repository:** [JavaScript_SampleCodes](https://github.com/mnitesh2552/JavaScript_SampleCodes)
+
+
 ----
 
 
